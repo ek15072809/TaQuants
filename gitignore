@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# TaQuants output
+taquants_output/
+*.imatrix.gguf
+*.gguf
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/

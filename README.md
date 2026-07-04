@@ -15,7 +15,7 @@ TaQuants protects you from model collapse.
 [How it works](#how-it-works) •
 [Quickstart](#quickstart) •
 [Limitations](#limitations) •
-[Technical Report (PDF)](docs/TaQuants_Technical_Report.pdf)
+[Technical Report (PDF)](docs/TaQuants_Technical_Report.pdf) •
 [Models on HuggingFace](https://huggingface.co/TaQuants)
 
 </div>

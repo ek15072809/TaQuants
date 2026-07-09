@@ -1,10 +1,10 @@
 $llamaQuantize = "llama-quantize.exe" 
 
 $inputFile   = "model-f16.gguf"
-$outputFile  = "model-IQ2_M.gguf"
+$outputFile  = "model-TaIQ2_M.gguf"
 $imatrixFile = "model.imatrix.gguf"
 $baseType    = "iq2_m"
-$threads     = "8"
+$threads     = "10"
 
 $quantArgs = @()
 $quantArgs += "--imatrix"
